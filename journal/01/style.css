@@ -1,0 +1,19 @@
+/* element selectors */
+
+header {
+  padding: 10px
+}
+
+footer {
+  padding: 20px 80px;
+}
+
+footer>div {
+  padding: 10px;
+}
+
+/* class selectors */
+
+.main {
+  display: flex;
+}

@@ -1,6 +1,6 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | to save our work in case of damage to a computer you're using to create it |
+    > | We use Git to save work on the cloud in case of damage to the computer that is being used to create it. It saves both the most recent version and all previous versions saved if needing to reference them. It also allows multiple people to work on the same project at the same time. |
 
 02. In the terminal, what is the command `mkdir` used for?
     > | make new directory |
@@ -22,7 +22,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > | The three elements that make up a CSS rule are the selector first (h1), property next (color), and value after (rgba(255, 210, 33, .75)). |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
