@@ -28,13 +28,13 @@
     > | Good design on a website helps people feel like the business is safe and legit. If it looks unappealing it feels like a fraudulent website. It also conveys a sense of professionalism. You're more likely to trust a company with a service that you need or your money if it looks as though they have enough income (business) to have an appealing website. Through design alone you can convey the style and priority of the company. If an artsy business had a boring black and white website it would be hard to trust they do art well. The product should match the design.|
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | There are many purposes to wireframing. Some are to keep the project user focused, to plan out the layout, to help in communication between the developer and the client, clarify functionality, to visualize how features work together, and to provide a sketch or mock up before doing all the detailed work to create it. |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > | Yes, I think wireframes are worth the time, energy, and effort because it can help to provide honest feedback and find pain points before spending even more time on a project that may need serious adjustments that could be harder to fix at that point. |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | The display flex property makes the children within to be flexible container more easily controlled to adjust different properties so you have a lot of variety in its positioning. |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | ANSWER HERE google box model mdn |
