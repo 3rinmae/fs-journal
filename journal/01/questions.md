@@ -37,4 +37,4 @@
     > | The display flex property makes the children within to be flexible container more easily controlled to adjust different properties so you have a lot of variety in its positioning. |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE google box model mdn |
+    > | The properties that affect the size of the box model are width, min-width, max-width, height, min-height, and max-height. |
