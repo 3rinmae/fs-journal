@@ -18,6 +18,27 @@ selectCheese()
 // const weirdFunction = () => {
 
 // } this is another option to write a function
+
+function selectFoodItem(foodItem) {
+  console.log(`Selected Food Item!`, foodItem)
+}
+
 // !SECTION functions end  
 
 
+// Animal Murder Mystery Notes
+
+const person = {
+  name: 'Jeremy',
+  age: 32,
+  likesCats: true,
+  favoriteFoods: ['sushi', 'broccoli', 'croissant sandwich']
+}
+
+function drawAnimals() {
+  let stringOfEmojis = ''
+  animals.forEach(animal => {
+    stringOfEmojis += animal.emoji
+  })
+  console.log('string of emojis', stringOfEmojis);
+}

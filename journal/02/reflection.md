@@ -6,3 +6,6 @@ This reflection is open-format, so it can be whatever you like. Take this opport
 - What did you learn that was a shock or surprise?
 - What are you struggling with?
 - What would you count as a victory?
+
+
+Day 1 this week was rough! The lab gave me a headache so I couldn't work on it as long as I did the prior week's labs. Day 2 lecture made me seriously question if I can learn this! But thanks to Jeremy and Savannah talking me through each step in the lab of day 2, I finally understood what they were explaining. I still don't have a full grasp on JavaScript, but I at least felt like I saw improvement in my understanding by the end of day 2. 
