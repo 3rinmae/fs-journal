@@ -42,3 +42,7 @@ function drawAnimals() {
   })
   console.log('string of emojis', stringOfEmojis);
 }
+
+
+
+
