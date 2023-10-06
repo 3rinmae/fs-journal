@@ -13,7 +13,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > | The proxy object helps defend against malicious users. It also helps in debugging and adding additional customization. |
 
 05. What the difference between a `class` and an instance of a `class`?
   
@@ -21,7 +21,7 @@
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > | A computed property is a property that is relient upon another function such as a get in order to populate. An example from this week would be the new car star that only appears for the gregslist car if it goes through the get calculation and comes out true. |
 
 07. What is the purpose of the `MVC` pattern?
   
