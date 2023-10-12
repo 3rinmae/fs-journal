@@ -1,11 +1,11 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > | Synchronous code goes line by line from top to bottom. Asynchronous code jumps over lines of code while awaiting information. This helps other items of code load while waiting for data. |
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > | An event listener listens for changes to saved data in the AppState. |
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
@@ -13,7 +13,7 @@
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > | A callback is code that should run after a function is complete but it's stored inside the function so it can process while the time consuming part of the code is still working. IE a download. |
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
@@ -29,7 +29,7 @@
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > | In order to await a promise you need to async the start of the function. |
 
 09. What is the purpose of encapsulation in programming?
 
