@@ -9,7 +9,7 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > | REST stands for REpresentational State Transfer. It means a representation of the state of the data will be transferred to you upon request from the server. |
 
 04. What is a callback / higher order function?
 
@@ -17,15 +17,15 @@
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > | A promise in Javascript is an object that will be resolved or rejected by a certain time. The error in the promise is captured in the catch of a try/catch function for example. |
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > | Get, delete, and put are all processes used to make requests over HTTP. |
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > | API stands for Application Programming Interface. |
 
 08. What must you do in order to `await` a promise inside of a function?
 
@@ -33,12 +33,12 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > | The purpose of encapsulation is to hide sensitive data or code from either malicious or incompetent users. |
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > | The 200 response code means ok or successful. |
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > | The 400 error means it was a bad request. The server cannot or will not process the request because of bad information provided to it. |
