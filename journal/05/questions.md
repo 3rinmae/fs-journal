@@ -9,11 +9,11 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | ANSWER HERE |
+  > | Object Relationship Mapper, Mongoose | 
 
 04. Which two `HTTP` request types include a body?
 
-  > | ANSWER HERE |
+  > | Post and  |
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
@@ -25,11 +25,11 @@
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > | ANSWER HERE - body parser |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > | Request, Response |
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
