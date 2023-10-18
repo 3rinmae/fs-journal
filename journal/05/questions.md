@@ -9,7 +9,7 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | ORM stands for Object Relationship Mapper. We use Mongoose translates and interracts with MongoDB for us. | 
+  > | ORM stands for Object Relationship Mapper. We use Mongoose translates and interacts with MongoDB for us. | 
 
 04. Which two `HTTP` request types include a body?
 
@@ -33,8 +33,8 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > | http://localhost:3000/test?tag=winter |
 
 10. What is a ***virtual property***?
 
-  > | A virtual property is an additional field for a given model. they are additional model functions returning values based on the default schema fields. |
+  > | A virtual property is an additional field for a given model. They are additional model functions returning values based on the default schema fields. It links information stored in a different part of the database instead of storing the same information in multiple places. |
