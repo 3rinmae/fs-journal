@@ -21,7 +21,7 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > | One-to-one relationship describes a relationship between two entities that are only tied to each other. For example Erin and phone number. I only have one phone number and that one phone number is only tied to me. One-to-many is when one side can have more than one relationship while the reverse relationship can only be single sided. An example of this is Erin and my address. I only have one home address, but the home address has relationship with the other members of my family that live there. Many-to-many is a relationship between two entities where they both might have relationships between each other. An example of this is stores and the products they sell. A store will sell many products and the individual product may be available at many different stores. |
 
 07. What is middleware?
 
