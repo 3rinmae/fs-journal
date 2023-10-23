@@ -1,19 +1,19 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > | Main.js is the entrypoint of an application. |
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > | A component is the html, js, and css for a specific part of the page. The page will contain multiple components. |
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > | Its a way of building a page with components that are independent from one another. You can duplicate a component in multiple places or you can have many different types of components that don't interact or rely on each other at all. |
 
 04. What are the three tags that make up a Vue component?
 
-  > | ANSWER HERE |
+  > | The three tags that make up a Vue component are template (html), script (javascript), and style (css). |
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
@@ -21,7 +21,7 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > | The loadPage function. |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
@@ -37,4 +37,4 @@
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > | ANSWER HERE possibly computed as learned today but also watchers |
