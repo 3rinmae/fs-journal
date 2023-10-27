@@ -21,20 +21,20 @@
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | The loadPage component. |
+  > | The loadPage component. App.vue? Please explain to class. |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > | The AppState data can be accessed from other pages where the state object within a component can only be accessed locally. |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > | The service level is responsible for manipulating the data same as it did in MVC. |
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE they pass data from the parent page to the child component |
+  > | Props pass data from the parent page to the child component. An example would be when the parent car page in Gregslist passed the carProp data to the CarCardComponent. |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE possibly computed as learned today but also watchers |
+  > | The Vue method used to create watchable objects is reactive. Please explain in class. |
