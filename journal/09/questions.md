@@ -37,4 +37,4 @@
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> |  |
+> | Tasks are typically assigned during the Sprint Planning ceremony. |
