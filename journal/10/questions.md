@@ -25,24 +25,50 @@
   }
   ```
 
-  > | ANSWER HERE |
+  > | Public is the access modifier |
 
 06. In the Car example what is `string` an indication of?
 
-  > | ANSWER HERE |
+  > | String indicates the return value will be a string. |
 
 07. In the Car example what is `abstract` preventing?
 
-  > | ANSWER HERE |
+  > | Abstract is preventing the class from instantiating an object on its own. Its more like a blueprint for other classes. |
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
-  > | ANSWER HERE |
+  > | In a SQL table, the information in a row will be specific to that data object across many properties. The column will specify the specific property information for many rows of data objects. |
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
 
-  > | ANSWER HERE |
+  > | CREATE TABLE characters (
+    id INT PRIMARY KEY,
+    name VARCHAR(255),
+    age VARCHAR(255),
+    description VARCHAR(1000)
+  ); |
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > | In SQL you would use JOIN to query more than a single table. In the following example from PostIt today, join is used to query the accounts for an account id that matches the collaborators account id. 
+  
+  internal List<ProfileCollaboration> GetCollaboratorsByAlbumId(int albumId)
+  {
+    string sql = @"
+    SELECT 
+    collab.*,
+    acc.*
+    FROM collaborators collab 
+    JOIN accounts acc ON acc.id = collab.accountId
+    WHERE collab.albumId = @albumId;";
+
+    List<ProfileCollaboration> collaborators = _db.Query<Collaborator, ProfileCollaboration, ProfileCollaboration>
+    (sql, (collaborator, profileCollab) =>
+    {
+      profileCollab.CollaborationId = collaborator.Id;
+      profileCollab.AlbumId = collaborator.AlbumId;
+      return profileCollab;
+    },
+     new { albumId }).ToList();
+    return collaborators;
+  } |
